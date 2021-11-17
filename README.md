@@ -20,7 +20,11 @@ Sou um desenvolvedor ainda em desenvolvimento pela Trybe.
     <img align="center" alt="Python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <!--     <img align="right" alt="Alguma imagem (ainda não decidi hehe)" height="150" style="border-radius:50px;" src=""> -->
   </div>
-  
+
 <div> 
   <a href="https://www.linkedin.com/in/ldantasa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
+  
+  ![Snake animation](https://github.com/LDantasA/LDantasA/blob/output/github-contribution-grid-snake.svg)
 </div>
