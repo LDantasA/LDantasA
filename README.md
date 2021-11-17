@@ -6,8 +6,8 @@ Sou um desenvolvedor ainda em desenvolvimento pela Trybe.
 
 <div align="center">
   <a href="https://github.com/LDantasA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDantasA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDantasA&layout=compact&theme=algolia"/> -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LDantasA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDantasA&layout=compact&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="JS" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
